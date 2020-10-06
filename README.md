@@ -4,5 +4,5 @@ Implementation of some algorithms and data structures for competitive programmin
 
 # Usage
 
-> swift run competitive
-Shows help about algorithms currently implemented.
+`swift run competitive`
+> Shows help about algorithms currently implemented.
