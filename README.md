@@ -1,3 +1,3 @@
-# Testing
+# Repository purpose
 
-A description of this package.
+Implementation of some algorithms and data structures for competitive programming in swift language.
