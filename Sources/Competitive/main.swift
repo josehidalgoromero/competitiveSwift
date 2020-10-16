@@ -11,7 +11,8 @@ struct Competitive: ParsableCommand {
             FastModularExp.self,
             PigeonHole.self,
             ArrayPartialSum.self,
-            MaxSumSubarray.self
+            MaxSumSubarray.self,
+            LongConsecSubarray.self
         ])
 
     init() { }
